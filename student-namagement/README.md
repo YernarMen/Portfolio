@@ -21,6 +21,6 @@
 
 <img src="src/main/resources/static/Update student.png" alt="Post Method"/>
 
-*To delete student data, you need to send a request and specify a student ID, as shown in the image*
+*To delete student data, you need to send a request and specify a student* **ID**, *as shown in the image*
 
 <img src="src/main/resources/static/Delete student.png" alt="Post Method"/>
